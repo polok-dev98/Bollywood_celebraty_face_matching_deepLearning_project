@@ -12,4 +12,4 @@
 
 4. Run test.ipynb file and extract the sample.rar file , choose a photo path from sample file and set into it upload_img function which inside the test.ipynb file.
 
-# Enjoy
+
