@@ -1,4 +1,4 @@
-# Bollywood_celebraty_face_matching_deep Learning_project
+# Bollywood celebraty face matching deep learning project
 
  Dataset download link: https://www.kaggle.com/datasets/sushilyadav1998/bollywood-celeb-localized-face-dataset
 
